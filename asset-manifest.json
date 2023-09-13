@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/new-vista-markdown/static/css/main.073c9b0a.css",
+    "main.js": "/new-vista-markdown/static/js/main.8096fcf5.js",
+    "static/js/787.3d19f10f.chunk.js": "/new-vista-markdown/static/js/787.3d19f10f.chunk.js",
+    "index.html": "/new-vista-markdown/index.html",
+    "main.073c9b0a.css.map": "/new-vista-markdown/static/css/main.073c9b0a.css.map",
+    "main.8096fcf5.js.map": "/new-vista-markdown/static/js/main.8096fcf5.js.map",
+    "787.3d19f10f.chunk.js.map": "/new-vista-markdown/static/js/787.3d19f10f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.8096fcf5.js"
+  ]
+}
